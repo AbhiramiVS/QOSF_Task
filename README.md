@@ -1,6 +1,6 @@
 # QOSF_Task
 
-Task2 : Implement a circuit that returns |01> and |10> with equal probability (50% for each).
+Implement a circuit that returns |01> and |10> with equal probability (50% for each).
 Requirements :
 The circuit should consist only of CNOTs, RXs and RYs. 
 Start from all parameters in parametric gates being equal to 0 or randomly chosen. 
